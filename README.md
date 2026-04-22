@@ -23,3 +23,16 @@ To clean and analyze a real-world Netflix dataset using Python and extract meani
 - Duration data was standardized for better analysis
 
 ## 📂 Project Structure
+data-cleaning-netflix/
+│
+├── cleaning.ipynb
+├── netflix.csv
+├── cleaned_netflix.csv
+└── README.md
+
+
+## 🚀 Outcome
+A clean dataset ready for analysis and visualization, along with insights into Netflix content trends.
+
+## 🔗 Author
+Sandesh E J
